@@ -22,7 +22,7 @@ Before you begin, ensure you have met the following requirements:
 To install the application using the provided MSI installer, follow these steps:
 
 ### Step 1: Download the MSI file
-- Download the installer from the [releases page](#) or use the link provided to you.
+- Download the installer from the git repo.
 
 ### Step 2: Install the Application
 1. **Run the MSI file** by double-clicking on it.
